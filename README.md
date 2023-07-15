@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 <!-- <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLrN-0R5G_0cAS7jphP1U5sl1IhDh0G25KX93Cc9DkUklZYSFd4WYoSCu_IfKI2HnY78&usqp=CAU"/> -->
 
-🎓 I am currently a student at NIT, Kurukshetra, where I am pursuing my studies in Computer Engineering.<br>.<br><br>👨‍💻 I have a strong passion for learning and thrive on acquiring new knowledge every day. <br>✔️ I am interested in DSA along with full-stack development.<br>😉 I am always open to collaboration and working on exciting projects with like-minded individuals. <br>🤝 Feel free to reach out to me if you have any suggestions, collaboration opportunities, or simply want to connect.
+🎓 I am currently a student at NIT, Kurukshetra, where I am pursuing my studies in Computer Engineering.<br>👨‍💻 I have a strong passion for learning and thrive on acquiring new knowledge every day. <br>✔️ I am interested in DSA along with full-stack development.<br>😉 I am always open to collaboration and working on exciting projects with like-minded individuals. <br>🤝 Feel free to reach out to me if you have any suggestions, collaboration opportunities, or simply want to connect.
 
 
 ## 🌐 Socials:
